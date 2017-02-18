@@ -3,7 +3,7 @@
 ##Project Outline
 
 * Create a simple 15 sliding puzzle
-* total time allotted: ~ 4 hours
+* total time alotted: ~ 4 hours
 
 ##Why I did what I did
 
